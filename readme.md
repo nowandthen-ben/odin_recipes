@@ -1,0 +1,1 @@
+This is a translation of an ancient cookbook found in the Norwegian wilderness which relates the fare of the gods as they dwell in Valhalla. Translation efforts are ongoing.
