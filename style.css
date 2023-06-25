@@ -5,3 +5,7 @@ h1 {
 .pic {
     text-align: center;
 }
+
+ul {
+    font-style: italic;
+}
